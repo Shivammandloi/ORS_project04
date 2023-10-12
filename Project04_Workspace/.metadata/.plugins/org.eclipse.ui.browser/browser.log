@@ -1,0 +1,8 @@
+
+Oct 12, 2023 13:40:40.56 NEW SESSION
+Oct 12, 2023 13:40:40.56 [9724:12892:1012/134040.531:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 13:40:42.56 [9724:12892:1012/134042.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2023 13:40:43.13 [9724:12892:1012/134043.132:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2023 13:41:07.05 [9724:12892:1012/134107.051:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 12, 2023 13:43:51.05 [9724:10652:1012/134351.053:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Oct 12, 2023 13:46:14.86 [9724:10652:1012/134614.859:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
